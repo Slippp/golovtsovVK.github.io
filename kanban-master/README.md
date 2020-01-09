@@ -1,2 +1,0 @@
-# kanban
-Simple kanban board

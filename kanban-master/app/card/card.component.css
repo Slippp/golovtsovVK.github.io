@@ -1,0 +1,24 @@
+.card {
+    border-radius: 0;
+}
+.card,
+.card-footer {
+    background-color: #FFFFA5;
+    border: none;
+}
+.card-footer {
+    text-align: right;
+
+}
+i {
+    padding-right: .5rem;
+}
+.predecessors {
+    text-align: left;
+}
+.complete {
+    background-color: #aaaaaa
+}
+.inprogress {
+    background-color: #ffaaff
+}
